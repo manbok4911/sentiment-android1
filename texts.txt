@@ -1,0 +1,9 @@
+﻿title=تحلیل گر احساسات
+source=زبان مبدأ
+target=زبان مقصد
+hint=متن خود را وارد کنید
+analyze=تحلیل
+result=نتیجه
+positive=مثبت
+negative=منفی
+neutral=خنثی
